@@ -9,6 +9,7 @@ __pycache__/
 build/
 dist/
 *.spec
+*.exe
 
 # Config local (contiene rutas de tu PC)
 config.json
