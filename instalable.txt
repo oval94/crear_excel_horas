@@ -1,0 +1,2 @@
+# Para crear el instalable, ejetuar esto con el .venv activado:
+pyinstaller --onefile --windowed --name CrearHojaHoras main.py
