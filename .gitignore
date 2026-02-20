@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Virtual environment ---
+.venv/
+
+# --- Build files (PyInstaller) ---
+build/
+dist/
+*.spec
+
+# --- Config local (NO debe subirse al repo) ---
+config.json
+
+# --- VS Code settings (si usas VSCode) ---
+.vscode/
+
+# --- Logs temporales ---
+*.log
+
+# --- Ejecutables ---
+*.exe
